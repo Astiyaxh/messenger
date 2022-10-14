@@ -157,4 +157,4 @@ STATIC_ROOT = os.path.join(BASE_DIR, 'static_cdn')
 MEDIA_ROOT = os.path.join(BASE_DIR, 'media_cdn')
 TEMP = os.path.join(BASE_DIR, 'media_cdn/temp')
 
-BASE_DIR = "http://127.0.0.1:8000"
+BASE_URL = "http://127.0.0.1:8000"
