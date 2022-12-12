@@ -1,2 +1,2 @@
 # messenger
-build messenger for chat with people
+Building a messenger for people to chat with each other
